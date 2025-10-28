@@ -1,0 +1,1 @@
+--INSERT INTO employees (id, first_name, last_name, phone_number) VALUES (nextval('employee_sequence'), 'Valentin', 'Vasilev', '0882471592'), (nextval('employee_sequence'), 'Ivan', 'Petrov', '0895821747'), (nextval('employee_sequence'), 'Johnny', 'Bravo', '0885721654');
